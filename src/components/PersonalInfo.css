@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.book{
+    width: 60%;
+    height: 800px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+@media screen and (max-width: 992px)  {
+.book {
+    width: 80%;
+    height: 1207px;
+    margin-top: 150px;
+    margin-left: 57px;
+}
+}

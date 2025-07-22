@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.term{
+    margin-top: 150px;
+    width: 80%;
+    height: 609px;
+}
+
+.terms47{
+    margin-left: 60px;
+}
+
+@media screen and (max-width: 992px) {
+
+    .term{
+        height: 1890px;
+    }
+}
